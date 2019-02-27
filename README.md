@@ -22,7 +22,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src='Flickster.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ### Notes
 In this assignment, I had problems with the Movie.java file when trying to create the Movie object in the MovieActivity.java file. I'm not entirely sure why it wasn't working but I found a way around it and got it work
