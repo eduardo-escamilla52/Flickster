@@ -62,7 +62,6 @@ public class DetailActivity extends YouTubeBaseActivity {
                     e.printStackTrace();
                 }
             }
-
             @Override
             public void onFailure(int statusCode, Header[] headers, String responseString, Throwable throwable) {
                 super.onFailure(statusCode, headers, responseString, throwable);
